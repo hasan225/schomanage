@@ -1,0 +1,19 @@
+.courses {
+    margin-top: 4rem;
+}
+section h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 0 2rem;
+}
+
+@media screen and ( max-width:1024px) {
+    .courses {
+        margin-top: 3rem;
+    }
+}
+@media screen and ( max-width:600px) {
+      .courses {
+          margin-top: 1rem;
+      }
+}
